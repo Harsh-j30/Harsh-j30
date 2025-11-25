@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh-j30" alt="harsh-j30" /></a> </p>
 
-- 🔭 I’m currently working on **RENTAL MANAGEMENT SYSTEM**
+- 🔭 I’m currently working on ** Todo Task Management Application**
 
-- 🌱 I’m currently learning **FLASK,DJANGO,REACT,EXPRESS**
+- 🌱 I’m currently learning **FLASK,DJANGO,Angular,REACT,EXPRESS**
 
 - 📫 How to reach me **jaiswalharsh3012@gmail.com**
 
